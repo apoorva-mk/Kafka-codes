@@ -1,3 +1,3 @@
 # Kafka-codes
 
-A maven project which contains simple codes the various Kafka APIs
+A maven project which contains simple codes for the various Kafka APIs
